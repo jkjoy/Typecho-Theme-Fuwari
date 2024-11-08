@@ -1,2 +1,6 @@
-# Typecho-Theme-Fuwari
-移植自astro fuwari 的 typecho 主题
+移植皮肤
+
+
+建议使用第三方评论系统
+
+https://blog.imsun.org
