@@ -1,11 +1,11 @@
 <?php
 /**
- * Fuwari
+ * 移植自 Astro 平台主题 Fuwari
  *
  * @package Fuwari
  * @author Sun
- * @version 1.0
- * @link http://imsun.org
+ * @version 1.0.1
+ * @link http://www.imsun.org
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 ?>
