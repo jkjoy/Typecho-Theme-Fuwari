@@ -214,7 +214,7 @@
                 if($this->options->twikoo): ?>
                 <?php $this->options->twikoo() ?>
                 <?php else: ?>
-                <?php $this->need('c.php'); ?>
+              
                 <?php endif; ?>
             </div>
             <?php $this->need('f.php'); ?>
